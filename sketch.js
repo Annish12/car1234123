@@ -41,4 +41,13 @@ function draw(){
   if(gameState === 2){
     game.end();
   }
+  //display();
 }
+
+  /* function display(){
+  if(gameState === 2){
+    text("Congratulations You Have Won", 50, 200);
+    textSize(30);
+    console.log("hello");
+  }
+} */
